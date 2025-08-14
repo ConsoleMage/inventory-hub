@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\FullStackApp\ServerApp\obj\Debug\net9.0\ServerApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\FullStackApp\ServerApp\obj\Debug\net9.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\FullStackApp\ServerApp\obj\Debug\net9.0\ServerApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\FullStackApp\ServerApp\obj\Debug\net9.0\ServerApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\FullStackApp\ServerApp\obj\Debug\net9.0\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FullStackApp\ServerApp\obj\Debug\net9.0\ServerApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\FullStackApp\ServerApp\obj\Debug\net9.0\ServerApp.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,52 @@
+@using SharedModels
+@using System.Text.Json
+@page "/fetchproducts"
+@inject HttpClient Http
+
+<h3>Product List</h3>
+
+@if (!string.IsNullOrEmpty(errorMessage))
+{
+    <p style="color:red">@errorMessage</p>
+}
+
+<ul>
+    @if (products != null)
+    {
+        foreach (var product in products)
+        {
+            <li>
+                <strong>@product.Name</strong> - $@product.Price<br />
+                <em>Stock:</em> @product.Stock<br />
+                <em>Category:</em> @product.Category?.Name (@product.Category?.Id)
+            </li>
+        }
+    }
+    else
+    {
+        <li>Loading...</li>
+    }
+</ul>
+
+@code {
+    private Product[]? products;
+    private string? errorMessage;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            var response = await Http.GetAsync("http://localhost:5021/api/productlist");
+            response.EnsureSuccessStatusCode();
+            var json = await response.Content.ReadAsStringAsync();
+            products = JsonSerializer.Deserialize<Product[]>(json, new JsonSerializerOptions
+            {
+                PropertyNameCaseInsensitive = true
+            });
+        }
+        catch (Exception ex)
+        {
+            errorMessage = $"Error: {ex.Message}";
+        }
+    }
+}
