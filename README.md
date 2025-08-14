@@ -42,7 +42,7 @@ Imagine you are part of a development team tasked with building InventoryHub, an
 
 (5 pts) Did you include a reflective summary explaining how Copilot assisted in each step?
 
-> Yes. Copilot was able to quickly generate typed models based on my existing JSON structures in C#. It was fast and included suggestions on how to improve my JSON structures.
+> Yes. Copilot quickly generated typed models based on my existing JSON structures in C#. It was fast and provided suggestions on how to improve those structures.
 
 ## Activity 4: Optimizing Integration Code for Performance Using Microsoft Copilot
 
