@@ -6,7 +6,7 @@ Imagine you are part of a development team tasked with building InventoryHub, an
 
 ## Activity 1: Using Microsoft Copilot to Generate and Refine Integration Code
 
-<img width="1936" height="1026" alt="Activity 1" src="https://github.com/user-attachments/assets/e5a29569-a137-431f-882c-b80dd54729ef" />
+<img width="1936" height="1026" alt="Activity 1" src="https://github.com/user-attachments/assets/a56abdeb-95ae-44f8-aca7-1e713d0955ff" />
 
 (5 pts) Did you create a GitHub repository for your project?
 
@@ -22,7 +22,7 @@ Imagine you are part of a development team tasked with building InventoryHub, an
 
 ## Activity 2: Debugging and Fixing Integration Issues with Copilot
 
-<img width="1936" height="1026" alt="Activity 2" src="https://github.com/user-attachments/assets/e554cf90-7731-4f62-b08c-23a9c7228a2b" />
+<img width="1936" height="1026" alt="Activity 2" src="https://github.com/user-attachments/assets/75976c57-26be-4828-bf66-3890b24f417f" />
 
 (5 pts) Did you debug and resolve integration issues effectively using Microsoft Copilot?
 
@@ -34,7 +34,7 @@ Imagine you are part of a development team tasked with building InventoryHub, an
 
 ## Activity 3: Creating and Managing JSON with Microsoft Copilot
 
-<img width="1936" height="1026" alt="Activity 3" src="https://github.com/user-attachments/assets/9519eac7-2874-4117-a28f-8b3b488c4dab" />
+<img width="1936" height="1026" alt="Activity 3" src="https://github.com/user-attachments/assets/fb162dae-b3c0-470c-9e66-4b3e37fccd84" />
 
 (5 pts) Did you create and implement JSON structures for API communication?
 
@@ -46,7 +46,7 @@ Imagine you are part of a development team tasked with building InventoryHub, an
 
 ## Activity 4: Optimizing Integration Code for Performance Using Microsoft Copilot
 
-<img width="1936" height="1026" alt="Activity 4" src="https://github.com/user-attachments/assets/e5b66864-51a7-4f64-a81e-c062d3cf7fb5" />
+<img width="1936" height="1026" alt="Activity 4" src="https://github.com/user-attachments/assets/5c2ddd07-07af-433f-9626-acae9d5b9be2" />
 
 (5 pts) Did you optimize the integration code for performance using Microsoft Copilot?
 
