@@ -1,5 +1,9 @@
 # inventory-hub
 
+This is the peer-graded assignment for "Full-Stack Integration," the seventh course in a 12-course series in the Microsoft Full-Stack Developer Professional Certificate program.
+
+A project template for creating a Blazor app that runs on WebAssembly. This template can be used for web apps with rich dynamic user interfaces (UIs).
+
 ## Introduction
 
 Imagine you are part of a development team tasked with building InventoryHub, an inventory management system for a small business. The application must allow users to view product details from a back-end API. Your goal is to create the integration between the front-end (Blazor) and the back-end (Minimal API).
