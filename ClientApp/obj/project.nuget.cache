@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8LUhYPuaCZ0=",
+  "dgSpecHash": "0qb2K4ZrDf0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\FullStackApp\\ClientApp\\ClientApp.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\inventory-hub\\ClientApp\\ClientApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.5\\microsoft.aspnetcore.authorization.9.0.5.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.5\\microsoft.aspnetcore.components.9.0.5.nupkg.sha512",

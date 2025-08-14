@@ -97,11 +97,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\FullStackApp\\ServerApp\\ServerApp.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\inventory-hub\\ServerApp\\ServerApp.csproj",
       "projectName": "ServerApp",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\FullStackApp\\ServerApp\\ServerApp.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\inventory-hub\\ServerApp\\ServerApp.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\FullStackApp\\ServerApp\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\inventory-hub\\ServerApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -122,8 +122,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\Admin\\Desktop\\FullStackApp\\SharedModels\\SharedModels.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Desktop\\FullStackApp\\SharedModels\\SharedModels.csproj"
+            "C:\\Users\\Admin\\Desktop\\inventory-hub\\SharedModels\\SharedModels.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Desktop\\inventory-hub\\SharedModels\\SharedModels.csproj"
             }
           }
         }

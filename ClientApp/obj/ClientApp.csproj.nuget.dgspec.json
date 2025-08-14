@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\FullStackApp\\ClientApp\\ClientApp.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\inventory-hub\\ClientApp\\ClientApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\FullStackApp\\ClientApp\\ClientApp.csproj": {
+    "C:\\Users\\Admin\\Desktop\\inventory-hub\\ClientApp\\ClientApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\FullStackApp\\ClientApp\\ClientApp.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\inventory-hub\\ClientApp\\ClientApp.csproj",
         "projectName": "ClientApp",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\FullStackApp\\ClientApp\\ClientApp.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\inventory-hub\\ClientApp\\ClientApp.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\FullStackApp\\ClientApp\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\inventory-hub\\ClientApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\FullStackApp\\SharedModels\\SharedModels.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\FullStackApp\\SharedModels\\SharedModels.csproj"
+              "C:\\Users\\Admin\\Desktop\\inventory-hub\\SharedModels\\SharedModels.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\inventory-hub\\SharedModels\\SharedModels.csproj"
               }
             }
           }
@@ -107,14 +107,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\FullStackApp\\SharedModels\\SharedModels.csproj": {
+    "C:\\Users\\Admin\\Desktop\\inventory-hub\\SharedModels\\SharedModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\FullStackApp\\SharedModels\\SharedModels.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\inventory-hub\\SharedModels\\SharedModels.csproj",
         "projectName": "SharedModels",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\FullStackApp\\SharedModels\\SharedModels.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\inventory-hub\\SharedModels\\SharedModels.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\FullStackApp\\SharedModels\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\inventory-hub\\SharedModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
