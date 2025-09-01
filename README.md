@@ -18,7 +18,7 @@ Imagine you are part of a development team tasked with building InventoryHub, an
 
 (5 pts) Did you generate and refine integration code for front-end and back-end communication?
 
-> Yes. I used Microsoft Copilot to generate API call logic inside the OnInitializedAsync method.
+> Yes. I used Copilot to generate API call logic inside the OnInitializedAsync method.
 
 (5 pts) Did you include a reflective summary explaining how Copilot assisted in each step?
 
